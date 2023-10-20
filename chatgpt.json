@@ -1,0 +1,902 @@
+{
+	"ChatGPT": {
+		"基础了解": {
+			"文档": "https://beta.openai.com/docs",
+			"博客": "https://openai.com/blog/chatgpt/",
+			"维基百科": "https://en.wikipedia.org/w/index.php?title=ChatGPT",
+			"提示词相关": {
+				"提示示例": {
+					"英文": "https://github.com/f/awesome-chatgpt-prompts",
+					"中文": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+				},
+				"提示词学习": {
+					"Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt": "https://github.com/prompt-engineering/prompt-patterns",
+					"OpenAI的工作人员告诉你如何给GPT清晰有效的指令。": "https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api",
+					"提示工程的指南": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+					"500 个对作家有帮助的提示": "https://github.com/OpenMindClub/awesome-chatgpt",
+					"PromptDB": "https://promptdb.ai/",
+					"ChatGPT Shortcut": "https://www.aishort.top/",
+					"Jrnylist (关键词参考)": "https://www.jrnylist.com/",
+					"Noonshot (生成Midjourney关键词)": "https://prompt.noonshot.com/"
+				},
+				"提示词效率提升": {
+					"最大限度地提高您的效率和生产力。让生产力加倍的ChatGPT 快速指令，点击领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。": "https://github.com/rockbenben/ChatGPT-Shortcut"
+				},
+				"提示词破解": {
+					"ChatGPT DAN，破解提示": "https://github.com/0xk1h0/ChatGPT_DAN"
+				},
+				"提示词买卖": {
+					"Opengpt": "https://open-gpt.app/",
+					"PromptBase 是买卖优质提示的市场": "https://promptbase.com/"
+				}
+			}
+		},
+		"社交媒体": {
+			"OpenAI GitHub": "https://github.com/openai",
+			"OpenAI Twitter": "https://twitter.com/openai",
+			"OpenAI YouTube": "https://www.youtube.com/OpenAI",
+			"OpenAI SoundCloud": "https://soundcloud.com/openai_audio",
+			"OpenAI LinkedIn": "https://www.linkedin.com/company/openai",
+			"OpenAI Discord": "https://discord.com/invite/openai"
+		},
+		"免费开源": {
+			"应用拓展": {
+				"审计和报错": {
+					"让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错：(1)尝试……时的网络错误": "https://github.com/xcanwin/KeepChatGPT"
+				}
+			},
+			"开发拓展": {
+				"IP限制": {
+					"使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持 Stream 流式输出": "https://github.com/x-dr/chatgptProxyAPI",
+					"OpenAI API 免费反向代理": "https://github.com/PawanOsman/ChatGPT",
+					"使用Next.js实现一键部署ChatGPT私有代理": "https://github.com/imyuanx/chatgpt-proxy"
+				},
+				"平台嵌入": {
+					"Chrome": {
+						"多合一聊天机器人客户端": "https://github.com/chathub-dev/chathub",
+						"增强搜索引擎功能的 ChatGPT 浏览器扩展": "https://github.com/wong2/chatgpt-google-extension",
+						"WebChatGPT：一个在您的 ChatGPT 提示中添加网络搜索结果的浏览器扩展。": "https://github.com/qunash/chatgpt-advanced",
+						"将 ChatGPT 深度整合到浏览器中，您需要的一切都在这里": "https://github.com/josStorer/chatGPTBox",
+						"ChatGPT Chrome 扩展。将 ChatGPT 集成到互联网上的每个文本框。": "https://github.com/gragland/chatgpt-chrome-extension",
+						"用您的声音与 ChatGPT AI 对话，并通过语音听取其答案": "https://github.com/C-Nedelcu/talk-to-chatgpt",
+						"用于将你的ChatGPT历史记录下载为PNG、PDF或可分享链接的Chrome扩展": "https://github.com/liady/ChatGPT-pdf",
+						"轻松地与您的朋友分享 ChatGPT 对话的永久链接。": "https://github.com/domeccleston/sharegpt",
+						"由ChatGPT自己编写的ChatGPT工具箱。当前功能：1.绕过高负载禁止登录 2.关闭数据监管 3.链路维持（减少网络错误）4.API混合接入 5.会话导入导出 6.聊天记录下载": "https://github.com/bigemon/ChatGPT-ToolBox",
+						"ChatGPT Extension 是一个非常简单的 Chrome 扩展程序（manifest v3），你可以在网页的任何地方访问 OpenAI 的 ChatGPT": "https://github.com/kazuki-sf/ChatGPT_Extension",
+						"一个Chrome浏览器扩展，将ChatGPT嵌入其中，作为一个无需手动操作的语音助手。": "https://github.com/idosal/assistant-chat-gpt"
+					},
+					"Wechat": {
+						"通过 Wechaty 在微信上使用 ChatGPT": "https://github.com/fuergaosi233/wechat-chatgpt",
+						"微信版 ChatGPT": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+						"基于 ChatGPT 的微信聊天机器人，使用 OpenAI api 和 itchat 库。使用 ChatGPT 搭建微信聊天机器人，基于 GPT3.5/4.0 API 和 itchat 实…": "https://github.com/zhayujie/chatgpt-on-wechat",
+						"为个人微信接入ChatGPT": "https://github.com/djun/wechatbot"
+					},
+					"Telegram": {
+						"基于 Node.js 的 Telegram ChatGPT 机器人。支持无浏览器和基于浏览器的 API。": "https://github.com/RainEggplant/chatgpt-telegram-bot",
+						"用单个命令运行自己的GPTChat电报机器人！": "https://github.com/m1guelpf/chatgpt-telegram",
+						"在Cloudflare Workers上轻松部署自己的Telegram ChatGPT机器人": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
+						"一个使用Python编写的与OpenAI官方ChatGPT API集成的Telegram机器人": "https://github.com/n3d1117/chatgpt-telegram-bot",
+						"ChatGPT在Telegram机器人中的尝试": "https://github.com/altryne/chatGPT-telegram-bot"
+					},
+					"Xiaomi": {
+						"用小米 AI 扬声器玩 ChatGPT": "https://github.com/yihong0618/xiaogpt"
+					},
+					"MicroSoft Teams": {
+						"ChatGPT Teams Bot 应用程序，可让您在 Microsoft Teams 中与 ChatGPT 聊天": "https://github.com/formulahendry/chatgpt-teams-bot"
+					},
+					"Discord": {
+						"让您将ChatGPT集成到Discord的代码仓库": "https://github.com/Zero6992/chatGPT-discord-bot",
+						"另一个让您将ChatGPT集成到Discord的代码库": "https://github.com/TheExplainthis/ChatGPT-Discord-Bot"
+					},
+					"Github": {
+						"由ChatGPT驱动的代码审查机器人": "https://github.com/anc95/ChatGPT-CodeReview",
+						"让ChatGPT为您审核 Pull Request": "https://github.com/kxxt/chatgpt-action"
+					},
+					"Siri": {
+						"使用ChatGPT API gpt-3.5-turbo和gpt-4模型的Siri快捷方式，支持连续对话，配置API…": "https://github.com/Yue-Yang/ChatGPT-Siri",
+						"使用个性化提示将文本分享到ChatGPT的苹果快捷方式": "https://github.com/reorx/Share-to-ChatGPT-Shortcut"
+					},
+					"Line": {
+						"让您将ChatGPT集成到Line的代码库": "https://github.com/TheExplainthis/ChatGPT-Line-Bot"
+					},
+					"Whatsapp": {
+						"让您将ChatGPT集成到Whatsapp的代码库": "https://github.com/victorharry/zap-gpt",
+						"ChatGPT + DALL-E + WhatsApp = AI 助手 🚀 🤖": "https://github.com/karfly/chatgpt_telegram_bot"
+					},
+					"JetBrains": {
+						"这个项目是一个插件，支持在 JetBrains 系列 IDE 上运行 ChatGPT。": "https://github.com/dromara/ChatGPT"
+					},
+					"VSCode": {
+						"非官方的 Visual Studio Code - OpenAI ChatGPT 集成": "https://github.com/gencay/vscode-chatgpt",
+						"允许您使用 ChatGPT 的 VSCode 扩展": "https://github.com/mpociot/chatgpt-vscode"
+					},
+					"Unity": {
+						"将 ChatGPT 集成到 Unity 编辑器": "https://github.com/keijiro/AICommand",
+						"用于Unity的ChatGPT驱动的着色器生成器": "https://github.com/keijiro/AIShader"
+					},
+					"Feishu": {
+						"飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀": "https://github.com/ConnectAI-E/Feishu-OpenAI",
+						"为飞书准备的ChatGPT机器人": "https://github.com/bestony/ChatGPT-Feishu",
+						"快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理": "https://github.com/whatwewant/chatgpt-for-chatbot-feishu",
+						"open加持下的飞书机器人，不仅是文本对话，还包括图片生成..": "https://github.com/key7men/openai-feishu-bot"
+					},
+					"DingDing": {
+						"钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀": "https://github.com/ConnectAI-E/Dingtalk-OpenAI"
+					},
+					"Obsidian": {
+						"Text generator是Obsidian的一个实用插件，它可以帮助你使用GPT-3（OpenAI）生成文本内容": "https://github.com/nhaouari/obsidian-textgenerator-plugin"
+					},
+					"Kubernetes": {
+						"一个用于Kubernetes问题的ChatGPT机器人": "https://github.com/robusta-dev/kubernetes-chatgpt-bot"
+					},
+					"Logseq": {
+						"一个在Logseq中使用GPT-3人工智能辅助笔记的插件": "https://github.com/briansunter/logseq-plugin-gpt3-openai"
+					},
+					"Roam Research": {
+						"根据当前块生成文本；使用DALL-E 2生成图像；改写句子": "https://github.com/LayBacc/roam-ai"
+					},
+					"Slack": {
+						"一种由社区驱动的阅读和与 AI 机器人聊天的方式 - 由 chatGPT 提供支持。": "https://github.com/madawei2699/myGPTReader"
+					}
+				},
+				"应用": {
+					"Terminal": {
+						"这是一个使用 open AI 的 whisper API 和 chatGPT 自动生成字幕的存储库": "https://github.com/rongjc/autosubtitle",
+						"这是一个简单的Shell脚本，可以在终端中使用OpenAI的ChatGPT和DALL-E，无需使用Python或JS。": "https://github.com/0xacx/chatGPT-shell-cli",
+						"这是一个CLI工具，利用OpenAI API来翻译基于JSON格式的本地化文件。": "https://github.com/pandodao/i18n-cli",
+						"将自然语言转换为 shell 命令的 CLI": "https://github.com/BuilderIO/ai-shell",
+						"使用人工智能翻译制作双语EPUB电子书。": "https://github.com/yihong0618/bilingual_book_maker",
+						"ChatGPT CLI是一个命令行工具，可以通过交互式或基于文件的方式进行会话，并具有上下文和情绪。": "https://github.com/verdverm/chatgpt",
+						"GPTerminator 提供了一种使用命令行界面与 OpenAI 的聊天完成和图像生成 API 进行交互的便捷方式。": "https://github.com/AineeJames/ChatGPTerminator",
+						"一个使用人工智能为你编写Git提交信息的命令行工具。": "https://github.com/Nutlope/aicommits",
+						"一个以 DX 优先和更工程化、轻量级、可定制化的标准输出格式Commitizen适配器和命令行工具。": "https://github.com/Zhengqbbb/cz-git",
+						"turbocommit是一个基于Rust语言编写的CLI工具，它使用OpenAI的 gpt-3.5-turbo 语言模型，按照约定的提交规范生成高质量的git提交信息。它易于使用，是一种成本效益高的方式来保持git提交历史记录的高质量，帮助开发人员保持工作进度": "https://github.com/Sett17/turboCommit",
+						"人工智能基础设施即代码生成器。": "https://github.com/gofireflyio/aiac",
+						"使用 Python 和 Shell 与 ChatGPT 和 GPT4 互动的 API。": "https://github.com/mmabrouk/chatgpt-wrapper",
+						"使用Golang编写的ChatGPT控制台客户端": "https://github.com/kkdai/chatgpt",
+						"这是一个'chatgpt'的应用项目，仅适用于桌面环境。": "https://github.com/AIGCT/EASYChatGPT",
+						"一个优雅的交互式ChatGPT命令行界面": "https://github.com/j178/chatgpt",
+						"从R语言访问ChatGPT的接口": "https://github.com/jcrodriguez1989/chatgpt",
+						"一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。": "https://github.com/piglei/ai-vocabulary-builder",
+						"这个命令行工具允许你轻松地在命令行中使用chatGPT。你可以与它聊天、问问题、获取文本翻译。它还支持在终端中呈现Markdown。": "https://github.com/yufeikang/ai-cli",
+						"一个支持Markdown的命令行接口工具，使用OpenAI的API密钥连接到ChatGPT。": "https://github.com/efJerryYang/chatgpt-cli/",
+						"用于生成美观、信息丰富且结构良好的自述文件的自动化工具。由 OpenAI LLM 提供支持": "https://github.com/eli64s/README-AI",
+						"命名变得简单：只需一个命令即可提高代码的可读性": "https://github.com/davidleitw/naming",
+						"DoctorGPT 将 GPT 引入生产环境，用于应用程序日志错误诊断！": "https://github.com/ingyamilmolinar/doctorgpt",
+						"用于使用 Python 和 Shell 与 ChatGPT 和 GPT4 交互的 API。": "https://github.com/mmabrouk/chatgpt-wrapper",
+						"CLI 中的人工智能助手。但它知道您的系统上有什么，可以帮助您完成工作。": "https://github.com/manno/chatgpt-linux-assistant"
+					},
+					"Android": {
+						"一个使用GPT人工智能过滤广告、垃圾邮件和通知的安卓应用程序": "https://github.com/deskbtm/nitmgpt"
+					},
+					"Multi": {
+						"基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 ": "https://github.com/yetone/openai-translator",
+						"ChatGPT 桌面应用程序（Mac，Windows 和 Linux）": "https://github.com/lencx/ChatGPT",
+						"一个适用于 MacOS、Windows、Linux、Android、iOS 和浏览器的 ChatGPT C# 客户端。由 Avalonia UI 框架驱动。": "https://github.com/wieslawsoltes/ChatGPT",
+						"🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送": "https://github.com/lss233/chatgpt-mirai-qq-bot",
+						"桌面端的终极副驾驶员。Chatbox 是支持 Windows 的 GPT-4 / GPT-3.5 (OpenAI API) 桌面应用程序...": "https://github.com/Bin-Huang/chatbox",
+						"Flutter ChatGPT": "https://github.com/redevRx/chat_gpt_sdk",
+						"使用ChatGPT-Desktop提高生产力 - 极速且超强大！": "https://github.com/Synaptrix/ChatGPT-Desktop"
+					},
+					"Web": {
+						"图文交互": {
+							"Python+Html": {
+								"微软开源图文交互APP": "https://github.com/microsoft/TaskMatrix"
+							}
+						},
+						"聊天交互": {
+							"TS+Nextjs": {
+								"ChatGPT Next Web": "https://github.com/Yidadaa/ChatGPT-Next-Web"
+							}
+						},
+						"文件交互": {
+							"TS": {
+								"AI 搜索和聊天 Paul Graham 的所有文章。": "https://github.com/mckaywrigley/paul-graham-gpt",
+								"聊天简化器": "https://github.com/zhengbangbo/chat-simplifier"
+							},
+							"TS+Python": {
+								"用于文档搜索和帮助的 GPT 支持的聊天。": "https://github.com/arc53/docsgpt"
+							},
+							"HTML+Python": {
+								"基于向量数据库与GPT3.5的通用本地知识库方案": "https://github.com/GanymedeNil/document.ai",
+								"利用Python和ChatGPT完成翻译。": "https://github.com/Raychanan/ChatGPT-for-Translation"
+							},
+							"Python": {
+								"为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型": "https://github.com/binary-husky/gpt_academic"
+							},
+							"TS+Python+React": {
+								"与你的文件对话": "https://github.com/guangzhengli/ChatFiles"
+							},
+							"JS+Python+Flask": {
+								"一款基于开源LLM技术的研究助手，允许您与研究论文进行对话": "https://github.com/mukulpatnaik/researchgpt"
+							}
+						},
+						"在线翻译": {
+							"TS+React": {
+								"基于OpenAi的翻译器": "https://github.com/LanceMoe/openai-translator"
+							}
+						},
+						"音视频总结": {
+							"TS+Nextjs": {
+								"音视频内容AI一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 课代表)": "https://github.com/JimmyLv/BibiGPT",
+								"使用chatGPT来翻译你的字幕": "https://github.com/cgsvv/AISubtitle"
+							}
+						},
+						"搜索引擎": {
+							"想要将您的（弹性）搜索变成像 Bing + ChatGPT 一样热门的东西吗？看看 Elasticsearch + GPT3 Answerer！我们的程序拦截 Elasticsearch 结果并将它们发送到 GPT3，以便为您的查询提供准确且相关的答案。另外，使用起来非常有趣！": "https://github.com/hunkim/es-gpt"
+						},
+						"论文提效": {
+							"通过ChatGPT实现对论文进行总结，帮助科研人进行论文初筛": "https://github.com/kaixindelele/ChatPaper",
+							"利用ChatGPT对论文进行优缺点分析，提出改进建议": "https://github.com/nishiwen1214/ChatReviewer",
+							"利用ChatGPT对论文初稿进行润色、翻译等": "https://github.com/binary-husky/chatgpt_academic",
+							"利用ChatGPT对审稿人的提问进行回复": "https://github.com/nishiwen1214/ChatReviewer",
+							"利用百万arXiv论文元信息训练出来的论文题目生成模型，根据论文摘要生成合适题目": "https://github.com/WangRongsheng/ChatGenTitle"
+						}
+					},
+					"Mac": {
+						"桌面端AI语言练习应用": "https://github.com/liou666/polyglot",
+						"适用于 Mac 的 ChatGPT，在您的菜单栏中显示。": "https://github.com/vincelwt/chatgpt-mac",
+						"划词工具栏-类似于ChatGPT校对扩展，但具有不同的提示和可下载的包": "https://github.com/hirakujira/ChatGPT-Grammar-Check-PopClip-Extension",
+						"基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代": "https://github.com/yetone/bob-plugin-openai-translator",
+						"与ChatGPT互动的LaunchBar操作": "https://github.com/quinncomendant/ChipiChat.lbaction"
+					}
+				},
+				"SDKS": {
+					"Java": {
+						"ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。": "https://github.com/PlexPt/chatgpt-java",
+						"ChatGPT Java SDK 支持流式输出。支持 OpenAI 官方所有接口。ChatGPT 的 Java 客户端。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java": "https://github.com/Grt1228/chatgpt-java"
+					},
+					"Python": {
+						"ChatGPT": "https://github.com/EthanForAi/ChatGPT",
+						"逆向工程API": "https://github.com/acheong08/ChatGPT",
+						"Python客户端用于非官方ChatGPT API，具有自动令牌再生、会话跟踪、代理支持等功能。": "https://github.com/rawandahmad698/PyChatGPT"
+					},
+					"NodeJS": {
+						"官方 ChatGPT API 的 Node.js 客户端。": "https://github.com/transitive-bullshit/chatgpt-api",
+						"适用于 ChatGPT 和 Bing AI 的客户端实现。可作为 Node.js 模块、REST API 服务器和 CLI 应用程序。": "https://github.com/waylaidwanderer/node-chatgpt-api"
+					},
+					"Dart": {
+						"Dart 客户端，用于使用非官方的 ChatGPT API": "https://github.com/MisterJimson/chatgpt_api_dart"
+					},
+					"Kotlins": {
+						"ChatGPT Android 在 Compose 中使用 Stream Chat SDK 展示 OpenAI 的 ChatGPT。": "https://github.com/skydoves/chatgpt-android"
+					},
+					"Go": {
+						"Golang 客户端，用于访问 ChatGPT（GPT-3.5-turbo）官方 API。": "https://github.com/AlmazDelDiablo/gpt3-5-turbo-go"
+					}
+				},
+				"行业拓展": {
+					"代码类": {
+						"与您的代码库进行交互": "https://github.com/shobrook/adrenaline/",
+						"使用ChatGPT来解释您的错误信息。": "https://github.com/shobrook/stackexplain",
+						"使用 AI 自动生成约定式 git 提交信息。": "https://github.com/guanguans/ai-commit",
+						"基于ChatGPT的渗透测试结果生成器。": "https://github.com/Stratus-Security/FinGen"
+					},
+					"AR": {
+						"使用ChatGPT和自然语言创建增强现实体验。": "https://github.com/trzy/ChatARKit"
+					},
+					"文本类": {
+						"DeepWrite AI是在ChatGPT3的帮助下制作的，专门为生成具有最大清晰度的完美博客文章而准备的特定模型。这只是1.0版本，将会实现更多的改进。": "https://github.com/simplysabir/AI-Writing-Assistant",
+						"一个简单的命令行界面，可以使用Gpt3从一个主题开始生成WordPress文章。": "https://github.com/nicolaballotta/gpt3-wordpress-post-generator"
+					},
+					"演示类": {
+						"使用ChatGPT（或其他后端）自动生成PPT，在一个单一的文件中完成所有操作。": "https://github.com/williamfzc/chat-gpt-ppt"
+					},
+					"语音交互": {
+						"使用您的语音与ChatGPT进行对话，并让它回答您。": "https://github.com/platelminto/chatgpt-conversation"
+					},
+					"法律援助": {
+						"AI 法律助手": "https://github.com/lvwzhen/law-cn-ai"
+					}
+				}
+			},
+			"资源拓展": {
+				"精选 ChatGPT 和 GPT-3 相关的出色工具、演示、文档的列表": "https://github.com/humanloop/awesome-chatgpt",
+				"ChatGPT 网址导航，分享免费好用 AI 网站！": "https://github.com/LangLangShanDeNanKe/chatgpt",
+				"ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 ChatGPT 让你的生产力飙升！": "https://github.com/yzfly/awesome-chatgpt-zh",
+				"精选的应用程序和工具列表，这些应用程序和工具不仅使用新的 ChatGPT API，而且允许用户配置自己的 API...": "https://github.com/reorx/awesome-chatgpt-api",
+				"⚡ 关于 ChatGPT 的一切": "https://github.com/OpenMindClub/awesome-chatgpt",
+				"ChatGPT 资料汇总学习，持续更新......": "https://github.com/dalinvip/Awesome-ChatGPT",
+				"🆓免费的ChatGPT镜像网站列表，持续更新。持续更新的免费ChatGPT镜像站点列表": "https://github.com/LiLittleCat/awesome-free-chatgpt",
+				"完全开放的ChatGPT替代方案列表": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
+				"搜集国内可用的ChatGPT在线体验免费网站列表。定时任务每日更新": "https://github.com/lzwme/chatgpt-sites",
+				"🧠 精选的ChatGPT资源列表，包括库、SDK、API等。🌟 请考虑支持这些项目！": "https://github.com/eon01/awesome-chatgpt",
+				"免费的ChatGPT站点列表，为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点": "https://github.com/xx025/carrot"
+			},
+			"开发工具": {
+				"官方指南": {
+					"使用 OpenAI API 的示例和指南": "https://github.com/openai/openai-cookbook"
+				},
+				"官方插件": {
+					"ChatGPT 检索插件让您轻松通过提问在日常工作文档中搜索和查找信息。": "https://github.com/openai/chatgpt-retrieval-plugin"
+				},
+				"官方API": {
+					"OpenAI API": "https://openai.com/blog/openai-api"
+				},
+				"代码管理": {
+					"Hugging Face": "https://huggingface.co/"
+				},
+				"语言模型训练工具": {
+					"ChatLLaMA": {
+						"Date": "2023/02",
+						"Links": "https://github.com/nebuly-ai/nebuly/tree/main/optimization/chatllama",
+						"Desc": "ChatLLaMA是一个开源的语言模型训练工具，它可以用于构建类似于ChatGPT的对话生成模型。使用ChatLLaMA时，用户可以基于LLaMA模型进行微调，并使用强化学习（RLHF）来改进生成的对话内容。相比于原始的ChatGPT训练流程，ChatLLaMA的训练过程更加高效和快速。ChatLLaMA是一个由Nebuly AI提供支持的开源项目，可以在GitHub上找到完整的实现代码。"
+					}
+				},
+				"大语言模型": {
+					"ChatGPT": "最流行前沿",
+					"Langchain": "一个开源自然语言处理项目，旨在为语言研究和开发者提供一个通用的自然语言处理框架。该项目的目标是创建一个基于链式体系结构的通用自然语言处理系统，以提高自然语言理解和生成的性能和效果。langchain项目支持各种自然语言处理任务，如文本分类、命名实体识别、情感分析、机器翻译等。它还提供了一个易于使用的API和一些预训练的语言模型，以帮助开发者快速构建和部署自然语言处理应用。langchain是由一个开源社区开发和维护的，任何人都可以参与其中，并为项目做出贡献",
+					"Hugging Face Hub": "一个在线模型和数据集平台，由Hugging Face创建和维护。它允许开发者和研究者共享、发现和使用预训练的自然语言处理模型和相关数据集，从而加速模型开发和研究。Hugging Face Hub上的模型和数据集都是由社区中的成员提供和维护的，包括研究人员、工程师和爱好者。通过Hugging Face Hub，开发者可以轻松地下载和使用各种类型的预训练模型，如BERT、GPT、RoBERTa等，并用于各种自然语言处理任务，如文本分类、命名实体识别、问答等。",
+					"Bard": "一个由EleutherAI社区创建的开源自然语言处理项目，旨在推动自然语言处理领域的研究和开发。该项目的目标是构建一个大型、高质量的预训练语言模型，以提高自然语言理解和生成的性能和效果。Bard项目的开发基于最新的自然语言处理技术和算法，并采用了分布式计算和开源协作的模式，以提高模型的训练效率和模型性能。Bard的开源代码和模型都可以在GitHub上找到，并且可以由开发者和研究者用于各种自然语言处理任务，如文本分类、问答、命名实体识别等。"
+				},
+				"计算词汇": {
+					"tiktokenizer": "https://github.com/dqbd/tiktokenizer"
+				},
+				"代理": {
+					"Cloudflare Worker / Vercel Edge 上的 OpenAI 代理": "https://github.com/egoist/openai-proxy"
+				},
+				"索引": {
+					"Python": {
+						"LlamaIndex (GPT Index) 是一个提供中央接口以将您的 LLM 与外部数据连接起来的项目。": "https://github.com/jerryjliu/llama_index"
+					}
+				},
+				"缓存": {
+					"Python": {
+						"GPTCache 是一个用于创建语义缓存以存储来自 LLM 查询的响应的库。": "https://github.com/zilliztech/gptcache"
+					}
+				},
+				"嵌入生成器": {
+					"OpenAI嵌入API": "https://openai.com/",
+					"GPTCache/paraphrase-albert-onnx模型的ONNX": "https://onnx.ai/",
+					"Hugging Face嵌入（transformers，ViTModel，Data2VecAudio）": "https://huggingface.co/",
+					"Cohere嵌入API": "https://docs.cohere.ai/reference/embed",
+					"fastText嵌入": "https://fasttext.cc/",
+					"SentenceTransformers嵌入": "https://www.sbert.net/",
+					"Timm图像嵌入模型": "https://timm.fast.ai/"
+				},
+				"缓存存储": {
+					"SQLite": "https://www.sqlite.org/",
+					"PostgreSQL": "https://www.postgresql.org/",
+					"MySQL": "https://www.mysql.com/",
+					"MariaDB": "https://mariadb.org/",
+					"SQL Server": "https://www.microsoft.com/en-us/sql-server/",
+					"Oracle": "https://www.oracle.com/database/",
+					"MongoDB": "https://www.mongodb.com/",
+					"Redis": "https://redis.io/",
+					"Minio": "https://min.io/",
+					"HBase": "https://hbase.apache.org/",
+					"ElasticSearch": "https://www.elastic.co/elasticsearch/",
+					"Duckdb": "https://duckdb.org/"
+				},
+				"矢量存储": {
+					"Milvus": [
+						"这是一个用于生产就绪 AI/LLM 应用程序的开源矢量数据库。",
+						"https://github.com/milvus-io/milvus",
+						"https://milvus.io/"
+					],
+					"Zilliz": [
+						"支持基于 Milvus 的全托管云矢量数据库",
+						"",
+						"https://zilliz.com"
+					],
+					"Milvus Lite": [
+						"这是一个轻量级的 Milvus 版本，可以嵌入到您的 Python 应用程序中。",
+						"https://github.com/milvus-io/milvus-lite"
+					],
+					"Faiss": [
+						"用于高效相似性搜索和密集向量聚类的库。",
+						"https://github.com/facebookresearch/faiss",
+						"https://faiss.ai/"
+					],
+					"hnswlib": [
+						"用于快速近似最近邻的仅有头文件的 C++/Python 库",
+						"https://github.com/nmslib/hnswlib"
+					],
+					"Weaviate": "https://weaviate.io/",
+					"Pinecone": "https://www.pinecone.io/",
+					"Qdrant": "https://qdrant.tech/"
+				}
+			},
+			"开源竞品": {
+				"EleutherAI": {
+					"GPT-J-6B": {
+						"Date": "2021/06",
+						"Links": "https://github.com/kingoflolz/mesh-transformer-jax",
+						"Desc": "GPT-J-6B是一个基于自回归模型的语言模型，与类似的GPT-3模型相比，GPT-J-6B在参数量上有着更大的优势，达到了6亿个左右的参数数量。GPT-J-6B的训练数据来自于英文维基百科和Common Crawl等数据集，同时还使用了对抗训练等技术来提高模型的鲁棒性和泛化能力。",
+						"Size": "0.6B",
+						"Lang": "Multi",
+						"Dev": {
+							"Databricks": {
+								"Dolly1.0": {
+									"Date": "2023/03",
+									"Links": "https://github.com/databrickslabs/dolly",
+									"Desc": "Dolly大语言模型是Databricks公司开源的一个基于GPT的自然语言处理模型，包括Dolly 1.0和Dolly 2.0等不同版本。其中，Dolly 2.0是最新的版本，于2023年4月发布。Dolly大语言模型采用了Databricks自主研发的其它技术，如instruction-following等。",
+									"Size": "12B",
+									"Lang": "EN"
+								}
+							}
+						}
+					},
+					"Pythia": {
+						"Date": "2023/04",
+						"Links": "https://github.com/EleutherAI/pythia",
+						"Desc": "Pythia Scaling Suite是一组为促进可解释性研究而开发的模型。它包含两组八个型号，尺寸分别为 70M、160M、410M、1B、1.4B、2.8B、6.9B 和 12B。对于每种尺寸，有两种模型：一种是在 Pile 上训练的，另一种是在对数据集进行全局去重后在 Pile 上训练的。所有 8 种模型尺寸都以完全相同的顺序在完全相同的数据上进行训练。我们还为每个模型提供 154 个中间检查点，作为分支托管在 Hugging Face 上。Pythia 模型套件旨在促进大型语言模型的科学研究，尤其是可解释性研究。尽管没有将下游性能作为设计目标，但我们发现这些模型的性能达到或超过了类似和相同尺寸模型的性能，例如 OPT 和 GPT-Neo 套件中的模型。",
+						"Size": "12B",
+						"Lang": "EN",
+						"Dev": {
+							"Databricks": {
+								"Dolly2.0": {
+									"Date": "2023/04",
+									"Links": "https://github.com/EleutherAI/gpt-neox",
+									"Desc": "Dolly大语言模型是Databricks公司开源的一个基于GPT的自然语言处理模型，包括Dolly 1.0和Dolly 2.0等不同版本。其中，Dolly 2.0是最新的版本，于2023年4月发布。Dolly大语言模型采用了Databricks自主研发的其它技术，如instruction-following等。",
+									"Size": "12B",
+									"Lang": "EN"
+								}
+							}
+						}
+					},
+					"GPT-NeoX-20B": {
+						"Date": "2022/04",
+						"Links": "https://github.com/EleutherAI/pythia",
+						"Desc": "GPT-NeoX是一个基础的自然语言处理模型，它采用了类似于GPT-3的3个阶段的预训练方法，具有多语言支持和强大的生成能力。 GPT-NeoX目前是由EleutherAI社区开发的一个开源框架，在GitHub上提供了开放的预训练模型，以及适用于各种自然语言处理应用的相关教程和示例。",
+						"Size": "20B",
+						"Lang": "Multi",
+						"Dev": {
+							"Together&&LAION&&Ontocord.ai.": {
+								"GPT-NeoXT-Chat-Base-20B": {
+									"Date": "2023/03",
+									"Links": "https://github.com/togethercomputer/OpenChatKit",
+									"Desc": "GPT-NeoXT-Chat-Base-20B-v0.16 基于 ElutherAI 的 GPT-NeoX 模型，并针对专注于对话式交互的数据进行了微调。我们将调整重点放在几个任务上，例如问答、分类、提取和摘要。我们使用 4300 万条高质量指令集对模型进行了微调。与 LAION 和 Ontocord.ai 合作，他们都帮助管理了模型所基于的数据集。",
+									"Size": "20B",
+									"GPU": "48G",
+									"Lang": "EN"
+								}
+							}
+						}
+					}
+				},
+				"Google": {
+					"T5": {
+						"Date": "2019/10",
+						"Links": "https://github.com/google-research/text-to-text-transfer-transformer",
+						"Desc": "T5 是谷歌提出了一个统一预训练模型和框架，模型采用了谷歌最原始的 Encoder-Decoder Transformer结构。T5将每个文本处理问题都看成“Text-to-Text”问题，即将文本作为输入，生成新的文本作为输出。通过这种方式可以将不同的 NLP 任务统一在一个模型框架之下，充分进行迁移学习。为了告知模型需要执行的任务类型，在输入的文本前添加任务特定的文本前缀 (task-specific prefifix ) 进行提示，这也就是最早的 Prompt。也就说可以用同样的模型，同样的损失函数，同样的训练过程，同样的解码过程来完成所有 NLP 任务。T5 本身主要是针对英文训练，谷歌还发布了支持 101 种语言的 T5 的多语言版本 mT5[2]。",
+						"Size": "13B",
+						"Lang": "EN",
+						"Dev": {}
+					}
+				},
+				"Hugging Face": {
+					"BLOOM": {
+						"Date": "2022/07",
+						"Links": "https://huggingface.co/bigscience/bloom",
+						"Desc": "BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.",
+						"Size": "176B",
+						"Lang": "Multi",
+						"Dev": {
+							"Hugging Face": {
+								"BLOOMZ & mT0": {
+									"Date": "2022/11",
+									"Links": "https://huggingface.co/bigscience/bloomz",
+									"Desc": "上述 T0 和 FLAN 等指令微调模型证明了多任务提示微调 (MTF) 可以帮助大模型在 zero-shot 条件下泛化到新任务，并且对 MTF 的探索主要集中在英语数据和模型上。 Hugging Face 将 MTF 应用于预训练的多语言 BLOOM 和 mT5 模型系列，发布了称为 BLOOMZ 和 mT0 的指令微调变体。研究实验中发现在具有英语提示的英语任务上微调多语言大模型可以将任务泛化到仅出现在预训练中的非英语任务；使用英语提示对多语言任务进行微调进一步提高了英语和非英语任务的性能，实现各种最先进的 zero-shot 结果； 论文还研究了多语言任务的微调，这些任务使用从英语翻译的提示来匹配每个数据集的语言，实验发现翻译的提示可以提高相应语言的人工提示的性能。 实验还发现模型能够对它们从未见过的语言任务进行零样本泛化，推测这些模型正在学习与任务和语言无关的更高级别的能力。"
+								}
+							}
+						}
+					}
+				},
+				"Meta": {
+					"OPT": {
+						"Date": "2022/05",
+						"Links": "https://github.com/facebookresearch/metaseq",
+						"Desc": "由 Meta AI 研究人员发布的一系列大规模预训练语言模型，模型包括125M、350M、1.3B、2.7B、6.7B、13B、30B、66B、175B 9个不同的参数规模和版本，除了 175B 的版本需要填写申请获取外，其它规模版本的模型都完全开放下载，可以免费获得。OPT-175B 和 GPT-3 的性能相当，并且部署只需要损耗 GPT-3 1/7 的能量损耗。OPT 系列模型开源的目的是为促进学术研究和交流，因为绝大多数大语言模型训练成本高昂，导致大部分研究人员都无法负担大语言模型的训练或使用；同时，各大企业发布的大语言预训练模型由于商业目的也都无法完整访问模型权重，只能通过 API 调用获取结果，阻碍了学术的交流与研究。",
+						"Size": "125B-175B",
+						"Lang": "EN",
+						"Dev": {}
+					},
+					"LLAMA": {
+						"Date": "2023/02",
+						"Links": "https://github.com/facebookresearch/llama",
+						"Desc": "LLaMA 是 Meta AI 发布的包含 7B、13B、33B 和 65B 四种参数规模的基础语言模型集合，LLaMA-13B 仅以 1/10 规模的参数在多数的 benchmarks 上性能优于 GPT-3(175B)，LLaMA-65B 与业内最好的模型 Chinchilla-70B 和 PaLM-540B 比较也具有竞争力。这项工作重点关注使用比通常更多的 tokens 训练一系列语言模型，在不同的推理预算下实现最佳的性能，也就是说在相对较小的模型上使用大规模数据集训练并达到较好性能。Chinchilla 论文中推荐在 200B 的 tokens 上训练 10B 规模的模型，而 LLaMA 使用了 1.4T tokens 训练 7B的模型，增大 tokens 规模，模型的性能仍在持续上升。",
+						"Size": "7B-65B",
+						"Lang": "Multi",
+						"Dev": {
+							"StandFord": {
+								"Alpaca": {
+									"Date": "2023/03",
+									"Links": "https://github.com/tatsu-lab/stanford_alpaca",
+									"Desc": "Alpaca（羊驼）模型是斯坦福大学基于 Meta 开源的 LLaMA-7B 模型微调得到的指令遵循（instruction-following）的语言模型。在有学术预算限制情况下，训练高质量的指令遵循模型主要面临强大的预训练语言模型和高质量的指令遵循数据两个挑战，作者利用 OpenAI 的 text-davinci-003 模型以 self-instruct 方式生成 52K 的指令遵循样本数据，利用这些数据训练以有监督的方式训练 LLaMA-7B 得到 Alpaca 模型。在测试中，Alpaca 的很多行为表现都与 text-davinci-003 类似，且只有 7B 参数的轻量级模型 Alpaca 性能可与 GPT-3.5 这样的超大规模语言模型性能媲美。",
+									"Size": "7B",
+									"Lang": "Multi",
+									"Dev": {
+										"Alpaca-LoRA": {
+											"Date": "2023/03",
+											"Links": "https://github.com/tatsu-lab/stanford_alpaca",
+											"Desc": "使用 low-rank adaptation (LoRA) 重现 Alpaca 的结果，并且能够以一块消费级显卡，在几小时内完成 7B 模型的 fine-turning。",
+											"Size": "7B",
+											"Lang": "EN",
+											"Dev": {
+												"KoAlpaca": "https://github.com/Beomi/KoAlpaca",
+												"Japanese-Alpaca-LoRA": "https://github.com/masa3141/japanese-alpaca-lora"
+											}
+										},
+										"Chinese-Vicuna": {
+											"Date": "2023/03",
+											"Links": "https://github.com/Facico/Chinese-Vicuna",
+											"Desc": "一个中文低资源的llama+lora方案，结构参考alpaca",
+											"Size": "7B",
+											"Lang": "CH"
+										},
+										"Chinese-alpaca-lora": {
+											"Date": "2023/03",
+											"Links": "https://github.com/LC1332/Chinese-alpaca-lora",
+											"Desc": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+											"Size": "7B",
+											"Lang": "CH"
+										}
+									}
+								}
+							},
+							"LM-SYS": {
+								"Vicuna": {
+									"Date": "2023/03",
+									"Links": "https://github.com/lm-sys/FastChat",
+									"Desc": "23年3.31日，受 Meta LLaMA 和 Stanford Alpaca 项目的启发，加州大学伯克利分校(UC Berkeley)等大学的研究者根据从 ShareGPT.com (ShareGPT是一个用户可以分享他们的 ChatGPT 对话的网站)收集的用户共享对话微调 LLaMA 推出了Vicuna-13B",
+									"Size": "7B,13B",
+									"GPU": "14G",
+									"Lang": "CH,EN",
+									"Dev": {
+										"King Abdullah University of Science and Technology": {
+											"MiniGPT-4": {
+												"Date": "2023/04",
+												"Links": "https://github.com/Vision-CAIR/MiniGPT-4",
+												"Desc": "MiniGPT-4是一个可以理解图片的大语言模型，是由开源的预训练模型Vicuna-13B与BLIP-2结合的新模型。MiniGPT-4是分两个阶段训练的。首先是使用500万个图像-文本数据训练，在4个A100上训练了10个小时左右，不过这个阶段的模型的生成能力受到了严重的影响，因此还有第二个阶段；第二个阶段是通过模型本身和ChatGPT一起创建高质量的图像文本对，这是一个小而高质量的数据集（共计3500个对）。然后在对话模板中使用这个数据集进行训练，显著提高了其生成可靠性和整体可用性；但是这个阶段的微调效率很高，一个A100在大约7分钟内就可以完成。",
+												"Size": "7B,13B",
+												"GPU": "12G",
+												"Lang": "CH,EN"
+											}
+										}
+									}
+								}
+							},
+							"LAION AI": {
+								"OpenAssistant-Pythia": {
+									"Date": "2023/04",
+									"Links": "https://github.com/LAION-AI/Open-Assistant",
+									"Desc": "这是Open-Assistant项目的第四次迭代英语监督微调(SFT)模型。它基于一个Pythia 12B模型，该模型在2023年3月25日之前通过https://open-assistant.io/人工反馈Web应用程序收集的助手对话人类演示进行了微调。",
+									"Size": "12B",
+									"GPU": "",
+									"Lang": "EN"
+								}
+							},
+							"Stability AI": {
+								"StableLM": {
+									"Date": "2023/04",
+									"Links": "https://github.com/Stability-AI/StableLM",
+									"Desc": "StableLM是StabilityAI开源的一个大语言模型。于2023年4月20日公布，目前属于开发中，只公布了部分版本模型训练结果。StabilityAI是著名的开源软件Stable Diffusion的开发者，该系列模型完全开源，但是做的是文本生成图像方向。而本次发布的StableLM是StabilityAI的第一个开源的大语言模型。该模型基于Pile数据训练，但是是一个新的Pile数据集，比原始的Pile数据集大3倍，包含约1.5万亿tokens，数据集目前没有公开，但是官方说后续在适当的时机会公布。模型训练的context长度是4096个。",
+									"Size": "175B",
+									"GPU": "",
+									"Lang": "EN"
+								}
+							},
+							"潞晨科技": {
+								"ColossalAI": {
+									"Date": "2023/03",
+									"Links": "https://github.com/hpcaitech/ColossalAI",
+									"Desc": "Colossal-AI作为ChatGPT的平替，开源了完整的RLHF流水线，包括，监督数据收集、监督微调、奖励模型训练和强化学习微调等。基于LLaMA预训练模型，并分享最实用的开源项目ColossalChat。ColossalChat只用了不到100亿参数就达到中英文双语能力，通过在大语言模型基础上的RLHF微调，实现了与ChatGPT和GPT-3.5类似的效果。",
+									"Size": "7B",
+									"GPU": "4G",
+									"Lang": "CH,EN"
+								}
+							},
+							"Nomic AI": {
+								"GPT4ALL": {
+									"Date": "2023/03",
+									"Links": "https://github.com/hpcaitech/ColossalAI",
+									"Desc": "GPT4All是基于LLaMA模型70亿参数微调而成。GPT4All 在GPT-3.5-Turbo 的800k 条数据上进行训练，包括文字问题、故事描述、多轮对话和代码。在答案生成方面，几乎与ChatGPT相似，但资源消耗方面更低。",
+									"Size": "7B",
+									"GPU": "14G",
+									"Lang": "EN"
+								}
+							},
+							"链家科技": {
+								"BELLE": {
+									"Date": "2023/03",
+									"Links": "https://github.com/LianjiaTech/BELLE",
+									"Desc": "开源中文对话大模型,结合中文语料通过Self Instruct方式微调BLOOMZ-7B或LLaMA",
+									"Size": "7B-65B",
+									"Lang": "Multi"
+								}
+							},
+							"Yiming Cui, Ziqing Yang, Xin Yao": {
+								"Chinese LLaMA": {
+									"Date": "2023/03",
+									"Links": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+									"Desc": "Chinese LLaMA(也称中文LLaMA，有7B和13B两个版本，项目地址)，相当于在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练，进一步提升了中文基础语义理解能力，同时，在中文LLaMA的基础上，且用中文指令数据进行指令精调得Chinese-Alpaca(也称中文Alpaca，同样也有7B和13B两个版本)",
+									"Size": "7B-65B",
+									"Lang": "Multi"
+								}
+							}
+						}
+					}
+				},
+				"Tsinghua": {
+					"GLM-130B": {
+						"Date": "2022/08",
+						"Links": "https://github.com/facebookresearch/llama",
+						"Desc": "GLM-130B 是一个开放的双语（英汉）双向密集模型，具有 1300 亿个参数，使用通用语言模型（GLM）的算法进行预训练。它旨在支持单台A100（40G * 8）或V100（32G * 8）服务器上具有130B参数的推理任务。通过 INT4 量化，硬件要求可以进一步降低到具有 4 * RTX 3090（24G）的单个服务器，而性能几乎没有下降。截至 2022 年 7 月 3 日，GLM-130B 已经接受了超过 4000 亿个文本标记（中文和英文各 200B）的训练",
+						"Size": "130B",
+						"Lang": "EN,CN",
+						"Dev": {
+							"Tsinghua": {
+								"ChatGLM-6B": {
+									"Date": "2023/03",
+									"Links": "https://github.com/THUDM/ChatGLM-6B",
+									"Desc": "62 亿参数的 ChatGLM-6B，结合模型量化技术，用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存），虽然规模不及千亿模型，但大大降低了用户部署的门槛，并且已经能生成相当符合人类偏好的回答",
+									"Size": "6B",
+									"GPU": "6G",
+									"Lang": "EN,CN"
+								}
+							}
+						}
+					}
+				},
+				"AIChatBot": {
+					"OpenChatKit": [
+						"https://github.com/togethercomputer/OpenChatKit",
+						"A toolkit similar to ChatGPT, based on EleutherAI's GPT-NeoX-20B, containing a large model with 20 billion parameters that has been fine-tuned on 43 million prompts."
+					],
+					"Jasper Chat": [
+						"https://www.jasper.ai/chat",
+						"A feature in the Jasper AI ecosystem, unlike ChatGPT, it is a paid service."
+					],
+					"Character ai": [
+						"https://beta.character.ai/",
+						"Unlike ChatGPT, it categorizes the chatbots into various subfields. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training."
+					],
+					"Bard": [
+						"https://blog.google/technology/ai/bard-google-ai-search-updates/",
+						"Bard is Google's new AI chatbot service that uses LaMDA, a language model that can generate natural and informative responses. Bard can help users with creative tasks, explaining complex topics, and learning new things. Bard is Google's answer to ChatGPT, Microsoft's popular AI chatbot."
+					],
+					"YouChat": [
+						"https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat",
+						"YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, a GPT-3-based text generator for writing emails and other documents. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message."
+					],
+					"Perplexity AI": [
+						"https://www.perplexity.ai/",
+						"AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT."
+					],
+					"MOSS": [
+						"https://moss.fastnlp.top/",
+						"Can perform a series of tasks such as dialogue generation, programming, fact answering, etc."
+					],
+					"ChatGLM": [
+						"https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685",
+						"This is a multibillion Chinese-English language model with basic question-and-answer and conversational capabilities, optimized for Chinese language."
+					],
+					"澜舟认知智能平台": [
+						"https://langboat.com/technology/mengzi",
+						"Based on Mencius pre-training technology, unlock full-range AIGC capabilities such as text-image generation, literary assistance creation, marketing copywriting, paper assistance writing, etc."
+					]
+				},
+				"LLMs": {
+					"LaMDA": [
+						"https://blog.google/technology/ai/lamda/",
+						"Language Model for Dialogue Applications is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model."
+					],
+					"LLaMA": [
+						"https://github.com/facebookresearch/llama",
+						"by Meta AI, A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI."
+					],
+					"Gopher": [
+						"https://arxiv.org/abs/2112.11446",
+						"by DeepMind, a 280 billion parameter transformer language model called Gopher, is an autoregressive transformer-based dense LLM."
+					],
+					"GLM": [
+						"https://github.com/THUDM/GLM-130B",
+						"GLM is a General Language Model developed by Tsinghua University. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23."
+					],
+					"GPT-NeoXT-Chat-Base-20B": [
+						"https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B",
+						"An open-source language model that can chat and generate images. Created by EleutherAI."
+					],
+					"BLOOM": [
+						"https://huggingface.co/bigscience/bloom",
+						"by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks."
+					],
+					"OPT": [
+						"Not provided",
+						"by Meta, The OPT model was proposed in Open Pre-trained Transformer Language Models by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3."
+					]
+				}
+			}
+		},
+		"相关产品": {
+			"竞争产品": {
+				"百度文心一言": "https://yige.baidu.com/",
+				"Poe": "https://quorablog.quora.com/Poe-1"
+			},
+			"同类产品": {
+				"合作产品": {
+					"New Bing": "https://www.bing.com/new",
+					"Notion": "https://www.notion.so/",
+					"Microsoft 365 Copilot": "https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/",
+					"Virtuzone": "https://launchpad.vz.ae/"
+				},
+				"ChatGPT克隆": {
+					"BAI Chat": "https://chat.theb.ai/",
+					"Chat For AI": "https://chatforai.com/",
+					"Fast GPT": "https://fastgpt.app/",
+					"FreeGPT": "https://freegpt.one/"
+				}
+			},
+			"代码类": {
+				"cursor (GPT4.0)": "https://www.cursor.so/"
+			},
+			"平台嵌入": {
+				"IPhone": {
+					"OpenCat": "https://opencat.app/",
+					"AssisChat": "https://apps.apple.com/us/app/assischat/id6446092669",
+					"OpenKit": "https://apps.apple.com/cn/app/openchit/id6446192123"
+				},
+				"Siri": {
+					"Siri Pro": "https://www.icloud.com/shortcuts/6889d862918e479693be11fd9a0293b2"
+				},
+				"浏览器插件": {
+					"42share": "https://42share.io/",
+					"HARPA AI": "https://harpa.ai/",
+					"AIPRM for ChatGPT": "www.aiprm.com",
+					"ChatGPT for Google": "https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf",
+					"ChatGPT 智能提示": "https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo",
+					"Detect GPT": "https://www.thomas.io/detect-gpt",
+					"Fluentify": "https://www.fluentify.io/",
+					"ArxivGPT": "https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en",
+					"ShareGPT": "https://sharegpt.com/",
+					"ChatGPTwriter": "https://chatgptwriter.ai/",
+					"Glarity": "https://glarity.app/",
+					"ChatGPT Sidebar": "https://chatgpt-sidebar.com/",
+					"ChatHub": "https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma",
+					"TeamSmart AI": "https://www.teamsmart.ai/",
+					"网站和 YouTube 视频摘要": "https://chrome.google.com/webstore/detail/chatgpt-%C2%BB-summarize-every/cbgecfllfhmmnknmamkejadjmnmpfjmp"
+				},
+				"Drafts": {
+					"ChatGPTConversation": "https://directory.getdrafts.com/a/2HJ"
+				},
+				"Github": {
+					"CR.GPT": "https://github.com/apps/cr-gpt"
+				},
+				"Mac": {
+					"MacGPT": "https://www.macgpt.com/",
+					"划词工具PopClip Extensions": "https://pilotmoon.com/popclip/extensions/page/ChatGPT",
+					"键盘快捷键选择和复制文本以向ChatGPT提问。": "https://blog.retompi.com/post/use-chatgpt-api/#keyboard-maestro",
+					"My Six ChatGPT Assistants": "https://pinchlime.com/newsletters/my-six-chatgpt-assistants/"
+				}
+			},
+			"搜索引擎": {
+				"YouGPT": "https://you.com/",
+				"Perplexity AI": "https://www.perplexity.ai/"
+			},
+			"帮你想": {
+				"ChatMind": "https://www.chatmind.tech/"
+			},
+			"帮你写": {
+				"Craft": "https://www.craft.do/",
+				"Chatsonic": "https://writesonic.com/chat",
+				"Poe (GPT4.0)": "https://poe.com/",
+				"Rytr": "https://rytr.me/",
+				"Jasper": "https://www.jasper.ai/",
+				"写作猫": "https://xiezuocat.com/",
+				"Vondy": "https://www.vondy.com/",
+				"MagickPen": "https://magickpen.com/",
+				"Easy-Peasy.AI": "http://easy-peasy.ai/",
+				"TypeAI": "https://type.ai/",
+				"copymatic": "https://copymatic.ai/",
+				"AI Screenwriter": "https://aiscreenwriter.com/",
+				"Ai Mailer": "https://ai-mailer.com/",
+				"HoppyCopy": "https://www.hoppycopy.co/",
+				"Peppertype": "https://www.peppertype.ai/",
+				"MarketingBlocks": "https://hey.marketingblocks.ai/",
+				"Yaara": "https://yaara.ai/",
+				"Shakespeare": "https://www.shakespeare.ai/",
+				"copyai": "https://www.copy.ai/",
+				"SEO GPT": "https://seovendor.co/",
+				"Yarnit": "https://www.yarnit.app/"
+			},
+			"帮你画": {
+				"Prompt Hunt (DALL·E和Midjourney绘画)": "https://www.prompthunt.com/",
+				"PromptBase (DALL·E,Midjourney,ChatGPT,Stable Diffusion绘画)": "https://promptbase.com/",
+				"Hypotenuse AI (文字内容和绘画)": "https://app.hypotenuse.ai/invited"
+			},
+			"帮你读": {
+				"Explainpaper": "https://www.explainpaper.com/",
+				"LATERAL": "https://www.lateral.io/",
+				"SCISPACE": "https://typeset.io/",
+				"arXiv Xplorer": "https://arxivxplorer.com/",
+				"PandaGPT": "https://pandagpt.io/",
+				"ChatPDF": "https://www.chatpdf.com/",
+				"ChatExcel": "https://chatexcel.com/convert",
+				"Excelformulabot": "https://excelformulabot.com/",
+				"Humata": "https://www.humata.ai/",
+				"风声雨声": "https://fsys.app/",
+				"聊天简化器": "https://chat-simplifier.imzbb.cc/zh"
+			},
+			"帮你看": {
+				"BiliGPT": "https://b.jimmylv.cn/",
+				"summarize.tech": "https://www.summarize.tech/",
+				"ClipRecaps": "https://cliprecaps.com/",
+				"SolidPoint": "https://www.solidpoint.ai/",
+				"新闻摘要Artifact": "https://artifact.news/"
+			},
+			"帮你回": {
+				"ChatWP": "https://wpdocs.chat/",
+				"Mottle": "https://mottle.com/"
+			},
+			"帮你定": {
+				"佛前AI": "https://hotoke.ai/",
+				"决策Rationale": "https://rationale.jinaai.cn/"
+			}
+		},
+		"相关内容": {
+			"英语": {
+				"音视频": {
+					"The Ultimate Chat GPT Course": "https://www.notion.so/69ed24a317a942d288e740419b1ad6f6",
+					"Advanced ChatGPT: Full Guide:": "https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83",
+					"ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:": "https://www.youtube.com/watch?v=JTxsNm9IdYU",
+					"Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]": "https://www.youtube.com/watch?v=jHv63Uvk5VA",
+					"ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:": "https://www.youtube.com/watch?v=sTeoEFzVNSc",
+					"ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners": "https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/",
+					"ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips": "https://www.udemy.com/course/trend-spotter/",
+					"ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)": "https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/",
+					"ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future": "https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/",
+					"ChatGPT Masterclass - Build Solutions and Apps with ChatGPT": "https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/",
+					"ChatGPT for Programmers: Build Python Apps in Seconds": "https://www.udemy.com/course/chatgpt-for-programmers/",
+					"More Courses: Udemy → ChatGPT": "https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT"
+				},
+				"文本": {
+					"The-Ultimate-ChatGPT-Guide": "https://www.notion.so/8800517adc0d4c569d4a317c177185a1",
+					"How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版": "https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1",
+					"How to use ChatGPT APIs in Python": "https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034",
+					"Full ChatGPT Prompts + Resources": "https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9"
+				}
+			},
+			"汉语": {
+				"音视频": {
+					"ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！": "https://www.bilibili.com/video/BV1HT411R7Lj/",
+					"【渐构】万字科普ChatGPT-4为什么会颠覆人类社会": "https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808"
+				},
+				"文本": {
+					"ChatGPT 终极指南 - 中译版": "https://geekr.dev/posts/chatgpt-ultimate-guide",
+					"理解大语言模型——10 篇论文的简明清单": "https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw",
+					"拆解追溯 GPT-3.5 各项能力的起源 - 中译版": "https://www.notion.so/360081d91ec245f29029d37b54573756",
+					"如何用 ChatGPT 构建你的专属知识问答机器人": "https://blog.frankzhao.cn/build_gpt_bot_for_doc/",
+					"ChatGPT 商务速成 - 中译版": "https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d",
+					"如何使用 Python 快速集成 ChatGPT API": "https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd",
+					"追赶ChatGPT的难点与平替": "https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ"
+				}
+			}
+		},
+		"投资人": {
+			"Pre Seed Round": ["Y Combinator"],
+			"Seed Round": ["Reid Hoffman Foundation", "Khosla Ventures"],
+			"Corporate Round": ["Microsoft"],
+			"Second Market": [
+				"Tiger Global Management",
+				"Andreessen Horowitz",
+				"Sequoia Capital",
+				"Bedrock Capital",
+				"Matthew Brown Companies"
+			]
+		},
+		"风险投资": {
+			"edgedb": "https://www.edgedb.com/",
+			"Descript": "https://www.descript.com/",
+			"Ambience Healthcare": "https://www.ambiencehealthcare.com/",
+			"Harvey": "https://www.harvey.ai/",
+			"Mem": "https://get.mem.ai/",
+			"Speak": "https://www.speak.com/"
+		},
+		"参考": {
+			"类ChatGPT的部署与微调(上)：从TRL到LLaMA、Alpaca/Vicuna/BELLE、中文版": "https://blog.csdn.net/v_JULY_v/article/details/129709105"
+		},
+		"替代产品": {},
+		"我的实现": {}
+	}
+}
